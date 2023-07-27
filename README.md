@@ -1,4 +1,5 @@
 # Enhancing XV-6
+Tweaking the xv6 simplified operating system developed at MIT implemented for a modern RISC-V multiprocessor using ANSI C. This project has added custom system calls, implemented scheduling policies that are incorporated into xv6. And modified the corrent `fork` to Copy-on-write fork in xv6.
 
 ## Specification 1: System Calls
 
